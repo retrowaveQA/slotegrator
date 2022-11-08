@@ -1,4 +1,4 @@
-Feature('login');
+Feature('test');
 
 Scenario('test something', ({ I }) => {
 
