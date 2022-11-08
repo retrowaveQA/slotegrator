@@ -12,7 +12,7 @@ exports.config = {
   output: './output',
   helpers: {
     Playwright: {
-      url: 'http://localhost',
+      url: 'http://test.react-back-office-app.netreportservice.xyz/admin/login',
       show: true,
       browser: 'chromium',
       windowSize: '640x640',
